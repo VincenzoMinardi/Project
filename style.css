@@ -5,6 +5,12 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.logo {
-  height: 150px;
+/* Size img logo */
+img.custom-logo {
+  max-width: 220px;
+}
+
+/* Navbar */
+.navbar{
+  justify-content: center;
 }
