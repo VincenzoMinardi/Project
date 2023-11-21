@@ -13,10 +13,19 @@
 		padding: 30px;
    }
 
+
+   /* Settings Img */
+
+   .small-img{
+	width: 678px;
+	height: 440px;
+   }
+
+
 	/* First block */
 
    .big-container{
-      background-image:url(../img/jumbo.png);
+      background-image:url(../img/newyork.jpg);
       height: 700px;
       background-size: cover; 
 	}
