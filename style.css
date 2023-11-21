@@ -8,3 +8,15 @@
 .logo {
   height: 150px;
 }
+
+/******** MAIN  ********/
+
+.container-main {
+  display: flex;
+  gap: 1rem;
+}
+
+.second-title {
+  margin-top: 3rem;
+  font-size: 2rem;
+}
